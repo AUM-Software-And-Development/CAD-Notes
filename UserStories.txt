@@ -1,0 +1,21 @@
+________________
+
+As a user I need to do x, so that I have/get/know/x
+
+
+= User stories can/might be one of the most common backlog items during a sprint.
+= They are good practice for keeping the project succinct
+
+
+User stories should
+• Describe one software feature that the customer needs
+• Be non technical and without technical terms
+• Be written from the customer's perspective
+User stories shouldn't
+• Be long essays
+• Use technical terms
+• Be aware of specific development standards/libraries
+
+
+Example:
+As a moviegoer, I can send my review.
