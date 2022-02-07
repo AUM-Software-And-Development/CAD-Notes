@@ -1,0 +1,26 @@
+Centralized version control systems are locked for change, while distributed are considerably non-existent until 
+a change is applied. Centralized is non-competitive in nature, while distributed is considerably volatile 
+(justification for that statement is found in the final paragraph).
+
+A centralized control would be useful for live editing on objects such as excel spreadsheets used for tracking when 
+there is potential for conflict due to the amount of employees or users accessing a document. It may also be useful 
+when the structure of data, or code base is likely to be unstructured, or something that is not easy to parse and 
+prevent overwrites from occurring, also such as raw data, or images. Something I have seen/experienced in person 
+when working for a company that utilized this approach for its internal product accessory/data. It may be helpful 
+to use this to categorize inventory references for queue systems, or other user changeable data that can't be 
+avoided, or left out from non technical user changes.
+
+A distributed control seems more useful to code or data bases, with a selected group of individuals making changes 
+together, and with some greater form of cohesion, as it is non-blocking unless a conflicting change occurs. This 
+means that some level of effort is expected to re base, or pull specified changes from the trunk in ways that are 
+expected to be dynamic to your working structure as an individual, rather than to require complete dismissal of 
+your current commitment. Something that is likely to be more feasible in the modern day, and lends to the 
+advancement of the git flow, as micro services are clearly aiding in the elasticity of agile practices.
+
+Note: I said "A distributed control seems more useful to code or data bases"
+
+This is meant to be read as data sources, not like the term database as it relates to an ORM or actual data-base 
+but instead was meant to signify the resulting data objects that a large database might produce, such as editable 
+documents meant for a companies employees.
+
+You could further deduce that this could also be read as data resources, if you wanted.
