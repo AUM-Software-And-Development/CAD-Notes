@@ -1,0 +1,11 @@
+references:
+https://www.actitime.com/project-time-estimation/project-estimation
+https://minutedock.com/academy/5-time-estimation-methods-in-project-management
+
+I prefer parametric + pessimistic time estimation for these reasons:
+
+a) Previous projects are likely to provide an agile centric view of the time needed, and depending on project experiences it may even take less time than the last.
+b) Pessimistic and broad terms keep things within reason, and allow story points with effort evaluations to become the point of interest; IE this will take hours, this will take days, this will take weeks, or this will take months to complete.
+c) Data does not always suffice, and judgement is required to ensure that the estimate aligns to previous/recurring data.
+
+To conclude, expert judgement is the final contender, as data alone is only a stepping stone to good estimation.
