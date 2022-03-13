@@ -1,3 +1,5 @@
+Agile time estimating by Eric Dee
+
 references:
 https://www.actitime.com/project-time-estimation/project-estimation
 https://minutedock.com/academy/5-time-estimation-methods-in-project-management
