@@ -1,0 +1,7 @@
+Reflection on the "Getting Real" textbook pages 36-46
+
+This section focused on code first optimize later ideas, and keeping things simple until they need details which to 
+me encases the entire agile methodology into its main point. Make a product that works once, and then transform it. 
+I like this detail of agile, because it is highly focused on destigmatizing, and unchaining creativity in a way that 
+works for producers and allows for early and consistent interaction with clients. I feel that it is mandatory to work 
+regularly with a human being before you can realize the ideas that they have hired you to build.

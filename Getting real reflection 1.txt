@@ -1,0 +1,19 @@
+Reflection on the "Getting Real" textbook pages 1-1
+
+I noticed one thing right away while parsing these paragraphs, and that was a personal experience I recently had with 
+my VPN provider. I had filled out one of their performance evaluations about a certain feature that was pretty 
+severely affecting the product, but only severely affecting it for a couple of seconds when you would close it to the 
+tray. They later emailed me letting me know it was updated, but the takeaway that I did not recognize until now was 
+that they were clearly very likely operating under the Agile methodology, and this lined up with the last two pages 
+of the introduction about shipping with a bug, expecting feedback, and going from there. I don't personally agree 
+entirely with all of Agile practice, but I know that there are a great deal of programmers out there who prefer to 
+get straight to coding without always want to think things through. I never was that way, but I always went straight 
+for the how does this work approach, so I can understand where it comes from. Part of the reason that I don't like it 
+that much, is due to the fact that I do an excruciating amount of documentation reading, and if it wasn't for things 
+like Intel's x86 processor manuals, or other extremely obscure things that were the result of monolithic practices, 
+then I would have fallen victim to less thought out methods. Thorough documentation has saved my life many times.
+
+I do agree with trepidation that things should be outputting regularly, as long as they aren't within some sort of 
+threshold for total failure of a product, and that is clearly why it works. With the advent of the cloud, things can 
+even be rolled back to previous releases should an outpouring of bad reviews rush in, or a certain unknown bug 
+suddenly break an offering.

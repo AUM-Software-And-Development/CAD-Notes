@@ -1,0 +1,17 @@
+Reflection on the "Getting Real" textbook pages 59-74
+
+Key points:
+
+• Application should be have components that are operational asap.
+
+• Use sketches then develop a ui to get an idea of where things must go.
+
+• Keep preferences relevant to the customer. This tends to mean less of them.
+
+• Feedback from launched apps presents errors you might not think of.
+
+ 
+
+This chapter covers getting a visible product running quickly to use as a frame for results. Similar to needing to 
+build a frame for a car before you can place its engine, something has to get built. Experiences tend to be better 
+when customers aren't inundated, and actual feedback is crucial to ensuring an app isn't based on bias.

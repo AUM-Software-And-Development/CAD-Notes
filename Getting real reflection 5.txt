@@ -1,0 +1,20 @@
+Reflection on the "Getting Real" textbook pages 47-58
+
+Key points:
+• Try not to build a learning curve into your app
+• Don't waste time on features that aren't relevant to your design
+• Allow feature requests/ideas to build up/stew
+• Came on way too strong with the ignore all features
+
+This section was fairly unorganized yet its talking points were copacetic. I took relevance in not building learning 
+curves into things. I tend to find it frustrating after trying numerous different languages and frameworks now when I 
+have to learn something new that it implemented in just a fractionally different way than the common standard. After 
+a while that tends to get tiring. I agree that time shouldn't be wasted on features, but think it should have been 
+made more peacefully the statement that features are ok to let go of, as it is natural for a software to need 
+simplicity before it becomes a functional production. I also follow the aspect that causes features to build up 
+before implementation, and prefer not to take notes on what I need for a while as the best ideas usually stick 
+around, but this whole piece came on way too strong about ignoring things until absolutely necessary. They must have 
+been struggling with that and overcompensated, as I don't think certain groups necessarily have to worry about their 
+own judgement and decision making. A counter argument that I have against that is: I don't think it would be a good 
+idea to ignore an infection just because it is the first time you noticed it; as we all know relying only on our 
+immune systems alone can often lead to dangerous consequences. The same principle can be applied here.
