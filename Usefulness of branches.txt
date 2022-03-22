@@ -1,4 +1,9 @@
-Branching allows feature reversion and development without hindering the content of already published software. It also allows conflict depletion/integration prior to master branch merging to ensure stability. One main talking point of the usefulness of branches is the allowance of versioning prior to release stages for beta and alpha testing if it is needed, as well as the ability to pull open source code and get the bleeding edge versions for both clients and customers. That also allows feedback pertaining to the most recent features when it is needed.
+Branching allows feature reversion and development without hindering the content of already published software. 
+It also allows conflict depletion/integration prior to master branch merging to ensure stability. 
+One main talking point of the usefulness of branches is the allowance of versioning prior to release stages for 
+beta and alpha testing if it is needed, as well as the ability to pull open source code and get the bleeding edge 
+versions for both clients and customers. That also allows feedback pertaining to the most recent features when it 
+is needed.
 
 References:
 
