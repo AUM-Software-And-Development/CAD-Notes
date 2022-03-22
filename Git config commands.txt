@@ -1,0 +1,11 @@
+By repo:
+
+git config user.name "User name"
+git config user.email "email@domain.tld"
+git config --global user.password "Password"
+
+By global:
+
+git config --global user.name "User name"
+git config --global user.email "email@domain.tld"
+git config --global user.password "Password"
