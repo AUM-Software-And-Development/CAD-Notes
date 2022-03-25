@@ -1,0 +1,17 @@
+Brief reflection on the webinar from Scott Hanselman titled "It's not what you read, it's what you ignore" by Eric Dee
+https://vimeo.com/39020426?embedded=true&source=video_title&owner=1374773
+
+• Describe your emails
+
+Keeping emails separated allows for better task tracking and appropriateness of the email dictation towards your 
+specific job. The CC inbox was a good idea that I would like to utilize, and is simple to implement by adding an email filter to all of my inboxes.
+
+• Don't ignore, consolidate and organize, then ignore
+
+Utilizing task tracking apps, and tabular consolidators are an example of this to ensure certain items are focused 
+upon, and the proper items are ignored.
+
+• Defer and delegate
+
+Don't respond to individual issues (this is the most relevant to agile), such as emails that have little relevance, 
+but instead write a broad post on a blog for multiple users to see including that emailer.
