@@ -1,0 +1,22 @@
+Getting real reflection pages 82-90 by Eric Dee
+
+Key points:
+
+	- Don't rush to create a robust team.
+	- Look for quick generalized learners who can communicate with customers.
+	- Hire good writers.
+
+The idea of hiring is covered in this chapter, and points out not to rush to create your team. Especially when new, 
+as that will often lead to conflicts and change in direction for some individuals, which will dampen your teamwork.
+
+Quick learners are usually more beneficial to smaller teams that work on internet apps and microservices, as these 
+things require developers who understand the full stack of technologies used to create them.
+
+Lastly; hire good writers, as they always lead to better communication, and often better coding as well.
+
+With that said, the chapter yet again showed a lot of hypocrisy that I often see in the development world in that the 
+writers boasted their ability to hire open source developers who contribute to Rails, and are the cream of the crop, 
+yet not to seek that. I feel this gets lost on the majority of readers, and tends to make the software community 
+independently reach for gold (at least) from my experience, that is the case. There is a running joke that you need a 
+masters degree to get an entry level job, and it is perverted that so many people think they are better developers 
+because of this. Something strange is that the world seems to reward you for at least being frank about things.
