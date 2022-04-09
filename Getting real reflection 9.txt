@@ -1,0 +1,8 @@
+"Getting Real" reflection on pages ninety one through one hundred and two:
+
+Design first.
+Design for states: Regular, Awaiting, and Error.
+
+Get to the heart of the design quick, build around it. Using a stringent frame is considered an ineffective tool that leads to programming too soon.
+Design for states, and accept that there will be errors that need to be properly handled in a customer facing way. An application also needs to
+have a good stand alone design that doesn't require data to make sense.
