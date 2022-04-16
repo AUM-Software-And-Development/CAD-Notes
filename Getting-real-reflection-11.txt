@@ -1,0 +1,31 @@
+Written by Eric Dee.
+
+"Getting Real" reflection on pages one hundred and fourteen through one hundred and twenty three:
+
+The first thing that was stated in this chapter is something I heavily disagree with, and that is not to write 
+functional specifications. This is imperative in a well oiled company. Especially one with things to offer to the 
+software field. All companies should utilize up-and-comers this way. It is better than paying your CEO for a yacht. 
+Functional specs are not fantasies for anyone except for the people who can't stick to a plan, or even worse, who 
+can't plan anything at all.
+
+It is clear that nearly all companies struggle with this, or that at some point the writer felt frustrated with 
+someone's documentation, because with the advent of greater technology, it has become nearly impossible to keep 
+documentation up to date, and with this technology, people essentially stopped writing code bases for longevity 
+outside of hardware focused environments, and heavily involved open source projects.
+
+I think a more rational approach to this statement would have been "Don't focus on functional specs right away."; 
+This book is way to focused on triggering people with intense statements, and they go on to say "Functional specs 
+are about appeasement - They're about making everyone feel involved and happy" [Again; there are better ways to 
+spend a companies money than on bonuses and dividends. A spec book would be a far better investment to make at just 
+49k/year, and improve someone's life too by giving them a job]. The elitist statement about it not being worth it 
+was definitely trigger happy, and borderline greedy.
+
+I would hope that a company like Nvidia, or Intel are keeping proper functional specs otherwise the computer you 
+are doing all that elite programming on would fail to function. So I guess you can thank functional specs for that, 
+because I know I've seen them, and they were definitely good reads too.
+
+Apart from that rant, it is clear that the programming world suffers from this. It's just obvious that now some 
+people are taking this "Manifesto" way too seriously, and there's a lot of serious overcompensation going on to 
+combat monolithic practices.
+
+While webapps might be able to move forwards without adequate documentation, the world does not.
