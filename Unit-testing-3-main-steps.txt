@@ -1,0 +1,12 @@
+           /-Arranging/No compiler errors
+Red-phase----Sequence
+           \-Assertion
+
+-
+The red phase is often started with an intentional test failure to generate scope for the test case.
+-
+
+Green-phase: Clearing errors/fixing sequence members.
+Refactoring-phase: If needed.
+
+Test fixtures can and should include variable defenitions for calls that repeatedly use the same values.
