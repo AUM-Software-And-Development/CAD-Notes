@@ -1,0 +1,7 @@
+Written by Eric Dee.
+
+Continuous integration is automated implementation, and validation of code repositories, but not deployment. It is 
+useful for ensuring that updates do not break the product being offered prior to deployment. Pros include the 
+ability to automate pre-deployment procedures, and the ability to keep logs of issues as they are associated with 
+each integration. Cons include potentially high resource usage, convolution of procedures when it isn't always 
+needed, and validation queues.

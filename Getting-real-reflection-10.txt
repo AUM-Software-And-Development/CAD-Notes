@@ -1,0 +1,11 @@
+Written by Eric Dee.
+
+"Getting Real" reflection on pages one hundred and three through one hundred and thirteen:
+
+Write less software. Find alternatives to verbose solutions that take up the least amount of time possible, and use 
+solutions that won't be discouraging if changes need to be made. Informing customers of your software limitations is 
+a valid way to reduce features that your product either isn't ready for yet, or could complicate it beyond your 
+resources.
+
+It is also recommended that you build for the idea of allowing access to data, as that has improved their sales 
+reach.

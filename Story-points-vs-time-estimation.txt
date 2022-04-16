@@ -1,0 +1,8 @@
+Agile story points vs time estimation by Eric Dee
+
+Reference: https://rubygarage.org/blog/3-reasons-to-estimate-with-story-points (Links to an external site.)
+
+I prefer the two way approach. If I were to prioritize one over the other, I would pick story points first, and then 
+time estimation. This is because a story point can inherit a time frame from previous story points that held the same 
+difficulty value as a predisposed estimate. I would still like to add in a loose time frame in every story in the 
+format of hours, days, weeks, months.
