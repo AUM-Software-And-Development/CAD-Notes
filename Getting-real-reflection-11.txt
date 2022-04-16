@@ -14,7 +14,7 @@ documentation up to date, and with this technology, people essentially stopped w
 outside of hardware focused environments, and heavily involved open source projects.
 
 I think a more rational approach to this statement would have been "Don't focus on functional specs right away."; 
-This book is way to focused on triggering people with intense statements, and they go on to say "Functional specs 
+This book is way too focused on triggering people with intense statements, and they go on to say "Functional specs 
 are about appeasement - They're about making everyone feel involved and happy" [Again; there are better ways to 
 spend a companies money than on bonuses and dividends. A spec book would be a far better investment to make at just 
 49k/year, and improve someone's life too by giving them a job]. The elitist statement about it not being worth it 
