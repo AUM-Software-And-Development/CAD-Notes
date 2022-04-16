@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mocha Tests</title>
+
+    <!-- Reference the Mocha CSS file. -->
+    <link rel="stylesheet" href="css/mocha.css">
+
+</head>
+
+<body>
+    
+    <!-- This div contains the Mocha output. -->
+    <div id="mocha"></div>
+    
+    <!-- Reference Mocha and Chai JavaScript files. -->
+    <script src="js/mocha.js"></script>
+    <script src="js/chai.js"></script>
+    
+    <!-- Call the Mocha setup function to 'setup' the unit testing framework. -->
+    <script>
+        mocha.setup('bdd')
+    </script>
+
+    <!-- Reference your Javascript production code files to be tested here. -->
+    <script src="js/site.js"></script>
+
+    <!-- Reference your JavaScript unit test files here. -->
+    <script src="js/tests.js"></script>
+    
+    <script>
+         // Initialize the unit tests.
+        mocha.run();
+    </script>
+</body>
+
+</html>

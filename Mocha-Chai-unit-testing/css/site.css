@@ -1,0 +1,41 @@
+#container{
+    width: 600px;
+}
+
+header {
+    font-family: 'VT323', monospace;
+    font-size: 112px;
+    margin-bottom: 10px;
+}
+
+section{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 135px;
+    width: 250px;
+    padding: 10px;
+    float: left;
+    margin-right: 10px;
+}
+
+.inputs {
+    width: 30px;
+    margin: 10px 5px 5px 5px;
+}
+
+select {
+    margin: 10px 5px 5px 5px; 
+}
+
+.subHeader{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.text{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+}
