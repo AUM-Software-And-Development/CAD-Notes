@@ -1,0 +1,7 @@
+Written by Eric Dee.
+
+Unit testing is extremely important for runtime centric environments, and class based code. The scope of a project 
+can quickly become grand, and especially so when you are operating with external entry points such as servers, or 
+the ASP.NET framework; so defining a context for testing early on prevents crucial components from breaking if there 
+are errors upon entry into the primary server loop being focused on by the kernel. Since everything operates on a 
+loop, you don't want to throw a wrench into your gears.
