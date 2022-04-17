@@ -2,7 +2,7 @@ By repo:
 
 git config user.name "User name"
 git config user.email "email@domain.tld"
-git config --global user.password "Password"
+git config user.password "Password"
 
 By global:
 
