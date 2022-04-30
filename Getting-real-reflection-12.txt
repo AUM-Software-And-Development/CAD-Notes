@@ -1,0 +1,23 @@
+Reflection written by Eric Dee about the book "Getting Real"
+Pages 125-130:
+
+Have a free product. This can act as a backbone for the
+company, and creating a valuable product that has use
+without being a paid product generates interest in your
+company.
+
+A lot of companies use a free base model, such as GitKraken,
+and others have staple products that act as a company
+advertisement, such as Apple's iTunes.
+
+Customers need to be able to access and cancel their
+subscription seamlessly. Otherwise they will hate your 
+company, and everything it makes. Nobody likes a cheater.
+
+Also make sure they have access to their data if they
+choose to leave. There are some laws about this as well 
+for some products like eCommerce.
+
+Lastly, avoid contracts, and "earn it", which means earn
+the money that you make instead of locking people into
+things that most people generally don't like.
